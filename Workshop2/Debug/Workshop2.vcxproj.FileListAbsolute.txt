@@ -1,0 +1,2 @@
+C:\Users\TheGa\source\repos\Workshop2\Debug\Workshop2.exe
+C:\Users\TheGa\source\repos\Workshop2\Debug\Workshop2.pdb
